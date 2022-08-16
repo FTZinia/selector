@@ -34,3 +34,28 @@
 p::first-line{
     color: aquamarine;
 }
+p::selection{
+    color: yellowgreen;
+    background-color: red
+}
+.main-5{
+    height: 200px;
+    width: 300px;
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+a:hover{
+    background-color: aqua;
+    color: blueviolet;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 2rem;
+    padding: 30px;
+    text-decoration: none;
+    border-radius: 20px;
+
+
+}
