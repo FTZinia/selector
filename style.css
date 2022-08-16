@@ -15,3 +15,22 @@
     color: pink;
   
 }
+.main-3{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
+.main-3 + p{
+    color: yellow;
+}
+.main-4{
+    height: 600px;
+    width: 600px;
+    background-color: blueviolet;
+    font-size: 28px;
+    padding: 20px 20px 20px 20px;
+    border: 7px solid yellowgreen;
+}
+p::first-line{
+    color: aquamarine;
+}
