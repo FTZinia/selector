@@ -6,3 +6,12 @@
 .sub-1 p{
     color: aqua;
 }
+.main-2{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
+.main-2 > p{
+    color: pink;
+  
+}
